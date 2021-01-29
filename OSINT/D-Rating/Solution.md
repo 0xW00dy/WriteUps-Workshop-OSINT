@@ -19,7 +19,6 @@ https://www.creditexpo.be/europese-banken-staan-niet-allemaal-even-ver-als-het-g
 
 mais il est présent sur de nombreux autres.
 
-le pdf se trouve ici: https://www.creditexpo.be/europese-banken-staan-niet-allemaal-even-ver-als-het-gaat-om-cybersecurity/
-
+le pdf se trouve ici: https://f2266a88-d40b-46f8-a18a-6b9228773153.usrfiles.com/ugd/f2266a_12a9b2661d954479b6c25cc069e482d3.pdf
 flag: 
 activity
