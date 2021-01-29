@@ -15,10 +15,12 @@ On commence par ajuster la date à mai-juin 2020, puis nous allons chercher par 
 On apprend grâce au premier lien que l'article a été publié le 25 juin 2020.On peut donc adapter nos recherches.
 
 J'ai trouvé le pdf dans un lien hypertexte sur ce site: 
+
 https://www.creditexpo.be/europese-banken-staan-niet-allemaal-even-ver-als-het-gaat-om-cybersecurity/
 
 mais il est présent sur de nombreux autres.
 
 le pdf se trouve ici: https://f2266a88-d40b-46f8-a18a-6b9228773153.usrfiles.com/ugd/f2266a_12a9b2661d954479b6c25cc069e482d3.pdf
+
 flag: 
 activity
